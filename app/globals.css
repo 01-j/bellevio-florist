@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-floral-green: #2d5a3d;
+  --color-floral-green-light: #4a8c5c;
+  --color-floral-green-pale: #e8f0e6;
+  --color-floral-cream: #faf8f5;
+  --color-floral-gold: #c9a96e;
+  --color-floral-rose: #d4898a;
+  --color-floral-lavender: #9b8ec4;
+  --color-floral-coral: #e8a87c;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
